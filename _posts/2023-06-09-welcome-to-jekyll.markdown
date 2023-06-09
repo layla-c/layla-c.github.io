@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Welcome to Jekyll!"
+title:  "Welcome to layla pages"
 date:   2023-06-09 21:48:05 +0800
 categories: jekyll update
 ---
