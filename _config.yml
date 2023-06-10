@@ -2,7 +2,7 @@
 title: layla gallery
 description: Love layla 💗 
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "layla" # the base hostname & protocol for your site
+url: "" # the base hostname & protocol for your site
 author:
 
 # Collection settings
